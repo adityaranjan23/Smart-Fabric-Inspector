@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/
+runs/
+outputs/*.mp4
+outputs/*.csv
+outputs/*.pdf
+yolov*.pt
+*.onnx
+*.engine
+!models/.gitkeep
